@@ -8,12 +8,11 @@ public class TamagoScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello World!!");
-        Debug.Log("aaaaa");
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("iiiii");
+        
     }
 }
